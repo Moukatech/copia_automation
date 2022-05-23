@@ -1,0 +1,10 @@
+class TestData:
+    BASE_URL= "https://qa.copiadev.copiakenya.com/web"
+    USER_NAME= "test@copiakenya.com"
+    PASSWORD="s\&d^h`CF.38,8}f"
+    wrong_UserName= "testing@automation.com"
+    wrong_Password = "nfskf!@"
+    Agent = " Bathsheba  Chuma"
+    pricelist = "Machakos Kirinyaga Embu pricelist (KES)" 
+    customer = "David Kamau Chochu - Gathamba TBC - +254792531306"
+    product = "[KA002] Ramtons Cordless Kettle RM/225"
