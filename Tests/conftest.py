@@ -2,6 +2,8 @@ import pytest
 from selenium import webdriver
 from config import TestData
 
+
+# used to initiate the browser
 @pytest.fixture(params=["chrome"], scope='class')
 def init_driver(request):
     if request.param == "chrome":
